@@ -1,9 +1,5 @@
-% An Introduction to Optimization with Applications to Machine Learning,
-% E.Chong, W.S.Lu, S.H. Zak, 5e
-% Solution to Page 107 Question 7.12 c)
-
 % Fibonacci Search Method
-% Clear out text/screen 
+% Prepare the workspace 
 clear
 clc 
 
