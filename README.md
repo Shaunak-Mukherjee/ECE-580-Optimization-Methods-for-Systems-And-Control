@@ -1,6 +1,6 @@
 #  Optimization Algorithms & Methods for System and Controls
 
-Welcome to the repository for optimization algorithms. This repository contains MATLAB and Python implementations of various optimization algorithms.
+Welcome to my repository for optimization algorithms. This repository contains MATLAB and Python implementations of various optimization algorithms.
 
 ## Repository Objective & Content
 
