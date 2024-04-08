@@ -4,7 +4,7 @@ Welcome to my repository for optimization algorithms. This repository contains M
 
 ## Repository Objective & Content
 
-Sharing my learnings from Purdue ECE58000 course, optimization Methods for Systems And Control which covers fundamental optimization algorithms commonly used in engineering applications. The course covers both theoretical foundations and practical implementations of optimization algorithms. Topics include gradient descent, Newton's method, quasi-Newton methods & stochastic optimization, and more.
+Sharing my learnings from Purdue ECE58000 course, optimization methods for systems and control which covers fundamental optimization algorithms commonly used in engineering applications. The course covers both theoretical foundations and practical implementations of optimization algorithms. Topics include gradient descent, Newton's method, quasi-Newton methods & stochastic optimization, and more.
 
 
 Then, navigate to the desired algorithm directory and follow the instructions provided in the README.md file.
