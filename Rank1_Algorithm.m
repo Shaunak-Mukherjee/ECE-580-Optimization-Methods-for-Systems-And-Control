@@ -1,4 +1,4 @@
-% Rank1 Correction Algo
+% Rank1 Correction Algorithm Implementation
 clear 
 clc
 
