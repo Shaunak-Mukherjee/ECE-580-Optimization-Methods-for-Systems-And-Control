@@ -1,4 +1,4 @@
-% DFP Algo
+% DFP Algorithm Implementation
 clear 
 clc
 
