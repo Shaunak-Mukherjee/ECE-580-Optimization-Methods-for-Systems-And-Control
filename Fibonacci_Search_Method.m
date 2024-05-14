@@ -1,4 +1,4 @@
-% Fibonacci Search Method
+% Fibonacci Search Method Implementation
 % Prepare the workspace 
 clear
 clc 
