@@ -1,4 +1,4 @@
-% BFGS Algo
+% BFGS Algorithm Implementation
 clear 
 clc
 
