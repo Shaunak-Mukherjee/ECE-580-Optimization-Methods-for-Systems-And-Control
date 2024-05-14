@@ -1,4 +1,4 @@
-% Powell Conjugate Gradient Method 
+% Powell Conjugate Gradient Method Implementation
 clear 
 clc
 
