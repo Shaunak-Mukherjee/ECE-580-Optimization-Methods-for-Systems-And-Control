@@ -1,3 +1,4 @@
+% Golden Section Search Implementation
 clear
 clc
 % Define the function f(x)
