@@ -1,4 +1,4 @@
-% Steepest Descent Algorithm
+% Steepest Descent Algorithm Example
 clear 
 clc
 
