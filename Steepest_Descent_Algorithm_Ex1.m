@@ -1,3 +1,4 @@
+% Steepest Descent Algorithm Implementation Example
 clear 
 clc
 
