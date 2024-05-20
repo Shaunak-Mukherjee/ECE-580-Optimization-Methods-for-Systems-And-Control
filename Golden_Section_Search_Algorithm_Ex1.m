@@ -1,7 +1,3 @@
-% An Introduction to Optimization with Applications to Machine Learning,
-% E.Chong, W.S.Lu, S.H. Zak, 5e
-% Solution to Page 107 Question 7.12 b)
-
 % Define the function 
 f = @ (x) 0.5 * x' * [2, 1; 1, 2] * x; % Quadratic form
 
