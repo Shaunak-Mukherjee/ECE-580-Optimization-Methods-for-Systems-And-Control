@@ -1,5 +1,6 @@
 % Fibonacci Search Method
 % Clear out text/screen 
+
 %clear
 %clc 
 
